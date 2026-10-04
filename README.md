@@ -15,8 +15,8 @@ This repository contains organized solutions to the competitive programming shee
 | Sheet | Topic | Status | Solutions |
 | :--- | :--- | :---: | :---: |
 | **Sheet #1** | Data type - Conditions | Completed | [View Folder](./Sheet-1) |
-| **Sheet #2** | Loops | Planned | — |
-| **Sheet #3** | Arrays | Planned | — |
+| **Sheet #2** | Loops | Completed | [View Folder](./Sheet-2) |
+| **Sheet #3** | Arrays | In Progress | — |
 | **Sheet #4** | Strings | Planned | — |
 | **Sheet #5** | Functions | Planned | — |
 | **Sheet #6** | Math - Geometry | Planned | — |
